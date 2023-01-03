@@ -1,0 +1,58 @@
+{
+  "FriendsList": [
+    {
+        "id": 0,
+    "name": "Saugat Pudasaini",
+      "imageUrl": "https://picsum.photos/200/300?random=1" },
+    {
+        "id": 1,
+    "name": "Sarthak Kadariya",
+      "imageUrl": "https://picsum.photos/200/300?random=2" },
+    {
+        "id": 2,
+    "name":"Bizen Shrestha",
+      "imageUrl": "https://picsum.photos/200/300?random=3" },
+    {
+        "id": 3,
+    "name": "Saugat Poudel",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+        "id": 4,
+    "name": "Hari Bhadur",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+        "id": 5,
+    "name": "Krishna Shrestha",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+        "id": 6,
+    "name": "aaaa aaa",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+        "id": 7,
+    "name": "Saugat Poudel",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+        "id": 8,
+    "name": "debit Poudel",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+        "id": 9,
+    "name": "credit Poudel",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+        "id": 10,
+    "name": "banker Poudel",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+        "id": 11,
+    "name": "sasa Poudel",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+        "id": 12,
+    "name": "sasaassa Poudel",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    
+  ]
+}
+

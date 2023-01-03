@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F6282B4-49D8-4B3A-BF8B-EBF9B08993F6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E353C42-68ED-4CFC-9350-2E24AC791007"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pal/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "2E353C42-68ED-4CFC-9350-2E24AC791007 - 713c70fbc9245442"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of pal.ContentView.friendModel : pal.FriendVierwModel"
+                  moduleName = "pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/medocregroup/Documents/Projects/pal/pal/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "2E353C42-68ED-4CFC-9350-2E24AC791007 - c43cedb73c47859c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pal.ContentView.friendModel.getter : pal.FriendVierwModel"
+                  moduleName = "pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/medocregroup/Documents/Projects/pal/pal/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "2E353C42-68ED-4CFC-9350-2E24AC791007 - 70cf32e1720e5588"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pal.ContentView.friendModel.setter : pal.FriendVierwModel"
+                  moduleName = "pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/medocregroup/Documents/Projects/pal/pal/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "2E353C42-68ED-4CFC-9350-2E24AC791007 - 5a551aee3aaac99b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pal.ContentView.friendModel.modify : pal.FriendVierwModel"
+                  moduleName = "pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/medocregroup/Documents/Projects/pal/pal/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2E353C42-68ED-4CFC-9350-2E24AC791007 - 8ad7d2aaef95ff88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pal.ContentView.friendModel.modify : pal.FriendVierwModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/medocregroup/Documents/Projects/pal/pal/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "2E353C42-68ED-4CFC-9350-2E24AC791007 - fd25ab52f52f9e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pal.ContentView.$friendModel.getter : SwiftUI.ObservedObject&lt;pal.FriendVierwModel&gt;.Wrapper"
+                  moduleName = "pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/medocregroup/Documents/Projects/pal/pal/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "2E353C42-68ED-4CFC-9350-2E24AC791007 - ca41e71f34c8b0f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "pal.ContentView.init() -&gt; pal.ContentView"
+                  moduleName = "pal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/medocregroup/Documents/Projects/pal/pal/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF9E777C-61B7-4493-BAF3-509A262AEB87"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pal/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6CCC2B2-7BBF-48FE-AFBB-0DD024C80D5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pal/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B2CD91D-8DE6-4F38-8656-33818A72E34A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "pal/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

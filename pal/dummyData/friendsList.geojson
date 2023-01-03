@@ -1,0 +1,23 @@
+{
+  "FriendsList": [
+    {
+        "id": 0,
+    "name": "Saugat Pudasaini",
+      "imageUrl": "https://picsum.photos/200/300?random=1" },
+    {
+        "id": 1,
+    "name": "Sarthak Kadariya",
+      "imageUrl": "https://picsum.photos/200/300?random=2" },
+    {
+        "id": 2,
+    "name":"Bizen Shrestha",
+      "imageUrl": "https://picsum.photos/200/300?random=3" },
+    {
+        "id": 3,
+    "name": "Saugat Poudel",
+      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    {
+    
+
+  ]
+}
