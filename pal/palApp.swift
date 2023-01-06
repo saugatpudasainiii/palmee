@@ -11,7 +11,7 @@ import SwiftUI
 struct palApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeNavigationView()
         }
     }
 }

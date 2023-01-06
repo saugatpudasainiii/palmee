@@ -3,55 +3,72 @@
     {
         "id": 0,
     "name": "Saugat Pudasaini",
-      "imageUrl": "https://picsum.photos/200/300?random=1" },
+      "imageUrl": "https://picsum.photos/200/300?random=1",
+      "status": "vacation mode on 😀 💦 "
+      
+    },
     {
         "id": 1,
     "name": "Sarthak Kadariya",
-      "imageUrl": "https://picsum.photos/200/300?random=2" },
+      "imageUrl": "https://picsum.photos/200/300?random=2",
+      "status":"Loking for hangout partner 🤗"
+      
+    },
     {
         "id": 2,
     "name":"Bizen Shrestha",
-      "imageUrl": "https://picsum.photos/200/300?random=3" },
+      "imageUrl": "https://picsum.photos/200/300?random=3",
+        "status":"I am jhyap 🥱😴" },
     {
         "id": 3,
-    "name": "Saugat Poudel",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
-    {
+    "name": "Rishabh aryal",
+      "imageUrl": "https://picsum.photos/200/300?random=4" ,
+        "status": "I am new 😄"},
+     {
         "id": 4,
-    "name": "Hari Bhadur",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    "name": "Subash gautam",
+      "imageUrl": "https://picsum.photos/200/300?random=4",
+        "status": "I am tired 🥱😴" },
     {
         "id": 5,
-    "name": "Krishna Shrestha",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    "name": "Abishek dangol",
+      "imageUrl": "https://picsum.photos/200/300?random=4",
+        "status": "vacation mode on 😀 💦 " },
     {
         "id": 6,
-    "name": "aaaa aaa",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    "name": "Aryan Sharma",
+      "imageUrl": "https://picsum.photos/200/300?random=4" ,
+        "status": "I am new here 😜"},
     {
         "id": 7,
-    "name": "Saugat Poudel",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    "name": "Hari Poudel",
+      "imageUrl": "https://picsum.photos/200/300?random=4" ,
+        "status": "hey I am using palmee 😊"},
     {
         "id": 8,
-    "name": "debit Poudel",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    "name": "Mahi sharma",
+      "imageUrl": "https://picsum.photos/200/300?random=4" ,
+        "status": "make me laugh 🫣"},
     {
         "id": 9,
-    "name": "credit Poudel",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    "name": "Aryan gautam",
+      "imageUrl": "https://picsum.photos/200/300?random=4" ,
+        "status": "vacation mode on 😀 💦 "},
     {
         "id": 10,
-    "name": "banker Poudel",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    "name": "Makhna sahrma",
+      "imageUrl": "https://picsum.photos/200/300?random=4",
+        "status": "I am looking for hangout tonight 🤗" },
     {
         "id": 11,
-    "name": "sasa Poudel",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    "name": "Rabindra pandey",
+      "imageUrl": "https://picsum.photos/200/300?random=4" ,
+        "status": "hey there "},
     {
         "id": 12,
-    "name": "sasaassa Poudel",
-      "imageUrl": "https://picsum.photos/200/300?random=4" },
+    "name": "Bikram basnet",
+      "imageUrl": "https://picsum.photos/200/300?random=4" ,
+        "status": "this is wonderful 🤪🤪"},
     
   ]
 }

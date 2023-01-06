@@ -7,10 +7,11 @@
 
 import Foundation
 
-
 struct ApisName{
     
     static let friendAps = "friends.json";
+    static let  friendProfile = "userProfile.json"
     
 }
+
 

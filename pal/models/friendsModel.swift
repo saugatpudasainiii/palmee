@@ -16,9 +16,11 @@ struct FriendsList: Codable {
     var id: Int
     var name: String
     var imageURL: String
+    var status: String
 
     enum CodingKeys: String, CodingKey {
         case id, name
         case imageURL = "imageUrl"
+        case status = "status"
     }
 }

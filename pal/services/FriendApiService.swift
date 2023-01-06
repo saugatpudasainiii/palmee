@@ -17,7 +17,7 @@ protocol friendApiServideProtocol {
 final class FriendApisServide: friendApiServideProtocol{
     
     func fetchAllFriendList()->FriendsData {
-    var allFriends: FriendsData = Bundle.main.decode(file: ApisName.friendAps);
+    let allFriends: FriendsData = Bundle.main.decode(file: ApisName.friendAps);
         return allFriends;
     }
 }

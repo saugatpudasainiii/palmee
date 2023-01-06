@@ -30,6 +30,16 @@ class FriendVierwModel : ObservableObject{
     func deleteFriend(index : IndexSet){
         friendsData!.friendsList.remove(atOffsets: index)
     }
+    
+    func searchResults(searchText : String , friendList : [FriendsList]) -> [FriendsList]{
+          if searchText.isEmpty {
+              return friendList;
+          } else {
+              return friendList.filter { FriendsList in
+                  FriendsList.name.contains(searchText)
+              }
+          }
+      }
 
     
 }
